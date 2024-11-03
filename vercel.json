@@ -1,5 +1,6 @@
 {
   "rewrites": [
     { "source": "/steps", "destination": "/steps.html" }
+    { "source": "/shaders", "destination": "/shaders.html" }
   ]
 }
